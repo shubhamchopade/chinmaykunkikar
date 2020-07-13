@@ -1,6 +1,6 @@
+<!-- 
 ### Hi there 👋
 
-<!--
 **chinmaykunkikar/chinmaykunkikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##### Microsoft and GitHub idealize "neutral software" as a universal benefit, and refuse to acknowledge their complicity in the harm that it results in.
